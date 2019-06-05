@@ -38,3 +38,5 @@ for i in range(len(convnet)):
     netinfo.append(Layer_info) #[K,S,P]
     printnet(netinfo[i+1],layer_names[i])
     print("----------------------")
+
+#测试Github Demo
