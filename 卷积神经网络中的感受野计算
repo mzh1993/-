@@ -39,4 +39,4 @@ for i in range(len(convnet)):
     printnet(netinfo[i+1],layer_names[i])
     print("----------------------")
 
-#测试Github Demo111
+#测试Github Demo3
